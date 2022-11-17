@@ -4,6 +4,10 @@ Official repository for the <b> Video Anomaly Classification Using DenseNet Feat
 
 Link to paper [Click Here](https://link.springer.com/chapter/10.1007/978-981-19-2126-1_28)
 
+### Notebooks
+
+Code and Implementation to the project can be foud here: [Notebook](https://github.com/akashp04/Video-Anomaly-Classification/blob/main/anomaly-detection-starter.ipynb)
+
 If you find this work useful you can our paper cite using:
 
 ```
